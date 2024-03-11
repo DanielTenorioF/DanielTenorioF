@@ -15,7 +15,7 @@
 
 </td><td valign="top" width="50%">
 <div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" style="width: 100%" />
+<img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" align="center" style="width: 100%" />
 </div>
 
 </td></tr></table>  
