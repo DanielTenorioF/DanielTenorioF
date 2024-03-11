@@ -1,4 +1,29 @@
 # :globe_with_meridians: Daniel Tenorio Ferrera :desktop_computer:
+ <h1 align="center"> 📱 Sandra Costales Romero 💻</h1>
+
+
+<table><tr><td valign="top" width="50%">
+
+- 
+
+- 
+
+- Projects available on [GitHub](https://github.com/DanielTenorioF/)
+
+- 
+
+
+</td><td valign="top" width="50%">
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" style="width: 100%" />
+</div>
+
+</td></tr></table>  
+<br/>
+
+
+- Systems administrator
+- Computer networks
 
 ## Languages and Tools:
 
