@@ -1,7 +1,6 @@
 # :globe_with_meridians: Daniel Tenorio Ferrera :desktop_computer:
 
 ## Languages and Tools:
-![image]()
 
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="typescript" width="65" height="65"/><a href="https://www.linux.org/" target="_blank"> <img src="https://www3.gobiernodecanarias.org/medusa/ecoblog/jlorsal/files/2013/10/Linux-icon.png" alt="javascript" width="50" height="50"/> </a>
 </p>
