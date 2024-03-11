@@ -3,9 +3,9 @@
 ## Languages and Tools:
 
 <p align="left"> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="typescript" width="65" height="65"/>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="typescript" width="65" height="65"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://www3.gobiernodecanarias.org/medusa/ecoblog/jlorsal/files/2013/10/Linux-icon.png" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65"/>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="65" height="65"/>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://www3.gobiernodecanarias.org/medusa/ecoblog/jlorsal/files/2013/10/Linux-icon.png" alt="Linux" width="50" height="50"/> </a>
 </p>
 
 <img src="" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
