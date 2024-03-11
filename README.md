@@ -1,1 +1,3 @@
-# :grin: Hello, I`m Daniel Tenorio Ferrera :grin:
+# :grin: Daniel Tenorio Ferrera :computer: :computer_mouse:
+
+## Languages and Tools:
