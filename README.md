@@ -2,11 +2,13 @@
 
 <table><tr><td valign="top" width="50%">
 
-- Systems administrator
+- :desktop_computer: Systems administrator
 
-- Computer networks
+- :globe_with_meridians: Computer networks
 
-- My projects on [GitHub](https://github.com/DanielTenorioF/)
+- :memo: My projects on [GitHub](https://github.com/DanielTenorioF/)
+
+- Development of Technological Solutions
 
 
 </td><td valign="top" width="50%">
@@ -32,6 +34,8 @@
 <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://pcr.cloud-mercato.com/static/img/logo/aws.png" alt="AWS" width="50" height="50"/>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49082977?s=280&v=4" alt="Kubernetes" width="50" height="50"/>
 <a href="https://www.nginx.com/" target="_blank"> <img src="https://ugeek.github.io/blog/images-blog/nginx.png" alt="Nginx" width="50" height="50"/>
+<a href="https://www.microsoft.com/es-es/windows-server target="_blank"> <img src="https://blogseti.files.wordpress.com/2016/05/metroui-folder-os-windows-8-icon.png" alt="WServer" width="50" height="50"/>
+  
 </a>
 </p>
 
