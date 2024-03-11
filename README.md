@@ -2,13 +2,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 
+- Systems administrator
 
-- 
+- Computer networks
 
 - Projects available on [GitHub](https://github.com/DanielTenorioF/)
-
-- 
 
 
 </td><td valign="top" width="50%">
@@ -18,10 +16,6 @@
 
 </td></tr></table>  
 <br/>
-
-
-- Systems administrator
-- Computer networks
 
 ## Languages and Tools:
 
