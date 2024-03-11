@@ -10,7 +10,7 @@
 <a href="https://grafana.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
 <a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
 <a href="https://httpd.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache" width="50" height="50"/>
-<a href="https://www.oracle.com/es/" target="_blank"> <img src="https://www.appvizer.com/media/application/16298/logo/16298.png" alt="Oracle" width="50" height="50"/>
+<a href="https://www.oracle.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle" width="50" height="50"/>
 </a>
 </p>
 
