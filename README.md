@@ -3,10 +3,10 @@
 ## Languages and Tools:
 ![image]()
 
-<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://www3.gobiernodecanarias.org/medusa/ecoblog/jlorsal/files/2013/10/Linux-icon.png" alt="javascript" width="50" height="50"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://www3.gobiernodecanarias.org/medusa/ecoblog/jlorsal/files/2013/10/Linux-icon.png" alt="javascript" width="50" height="50"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="typescript" width="65" height="65"/> </a>
 </p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nb>
