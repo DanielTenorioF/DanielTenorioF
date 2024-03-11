@@ -6,7 +6,7 @@
 
 - Computer networks
 
-- Projects available on [GitHub](https://github.com/DanielTenorioF/)
+- My projects on [GitHub](https://github.com/DanielTenorioF/)
 
 
 </td><td valign="top" width="50%">
