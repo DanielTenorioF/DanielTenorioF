@@ -7,4 +7,4 @@
 </p>
 
 ## Contacto
-<a href="dnltenorioferrera@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="daniel tenorio ferrera" height="30" width="40" />dnltenorioferrera@gmail.com</a>
+<a href="   dnltenorioferrera@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="daniel tenorio ferrera" height="20" width="40" />dnltenorioferrera@gmail.com</a>
