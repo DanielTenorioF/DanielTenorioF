@@ -1,6 +1,4 @@
 # :globe_with_meridians: Daniel Tenorio Ferrera :desktop_computer:
- <h1 align="center"> 📱 Sandra Costales Romero 💻</h1>
-
 
 <table><tr><td valign="top" width="50%">
 
