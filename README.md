@@ -1,4 +1,4 @@
-# :globe_with_meridians: Daniel Tenorio Ferrera :desktop_computer:
+# Daniel Tenorio Ferrera :grin:
 
 <table><tr><td valign="top" width="50%">
 
