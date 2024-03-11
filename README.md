@@ -1,3 +1,3 @@
-# :grin: Daniel Tenorio Ferrera :computer: :computer_mouse:
+# Daniel Tenorio Ferrera :desktop_computer:
 
 ## Languages and Tools:
