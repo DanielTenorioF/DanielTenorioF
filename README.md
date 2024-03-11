@@ -38,7 +38,7 @@
 </a>
 </p>
 
-## Contacto
+## Contact
 <a href="mailto:dnltenorioferrera@gmail.com" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin-bottom: 10px;">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="daniel tenorio ferrera" height="30" width="30" style="margin-right: 10px;" />
   <span style="vertical-align: middle;">dnltenorioferrera@gmail.com</span>
