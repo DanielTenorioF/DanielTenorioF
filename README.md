@@ -8,6 +8,7 @@
 <a href="https://github.com/DanielTenorioF" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="GitHub" width="50" height="50"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www3.gobiernodecanarias.org/medusa/ecoblog/jlorsal/files/2013/10/Linux-icon.png" alt="Linux" width="50" height="50"/>
 <a href="https://grafana.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
+<a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
 <a href="https://httpd.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache" width="50" height="50"/>
 </a>
 </p>
